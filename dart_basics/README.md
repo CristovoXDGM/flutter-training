@@ -24,4 +24,4 @@
   - [for loop/while/ do-while](https://dartpad.dev/?id=4270261c9c8a57af15715b42776d48b8)
 
 ### 3. OOP
-  - [Exercises (PT-BR)](https://gist.github.com/arthurgiani/0f03db7bd185e81433fb326217e78131)
+  - [Exerc (PT-BR)](https://gist.github.com/arthurgiani/0f03db7bd185e81433fb326217e78131)
